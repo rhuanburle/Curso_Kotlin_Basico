@@ -15,5 +15,4 @@ println(HashSet::class.java)
 
 // Kotlin proveitos
     println(frutas2.last())
-
 }

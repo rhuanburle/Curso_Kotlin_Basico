@@ -9,6 +9,6 @@ enum class Cor (val vermelho: Int, val verde: Int, val azul: Int) {
 }
 
 fun main() {
-    val rgb = Cor.VERMELHO.rgb()
+    val rgb = Cor.LARANJA.rgb()
     println(rgb)
 }
